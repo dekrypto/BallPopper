@@ -1,0 +1,2 @@
+# BallPopper
+Simple game, where the objective is to pop as many balls as possible in a given amount of time, while the balls are inflating and deflating. The main purpose of this project is to learn C programming language basics with SDL2 and cmake build system
